@@ -1,10 +1,24 @@
 body {
-    background-color: #f8f9fa;
-  }
+
+background-image: url(../../Downloads/bb3.jpg);
+background-position: center;
+
+}
+
+h2 {
+  color: orangered;
+    font-size: 3rem;         
+    font-weight: bold;     
+    text-align: center;
+    padding: 20px;           
+    background-color: #f8f9fa; 
+    border-radius: 10px;     
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); 
   
-  h2 {
-    color: #333;
-  }
+  
+}
+
+  
   
   .container {
     max-width: 900px;
@@ -15,17 +29,17 @@ body {
   }
   
   .nav-tabs .nav-link {
-    color: #001f3f !important;
+    color: #881edf !important;
     font-weight: bold;
   }
   
   .nav-tabs .nav-link.active {
     background-color: white !important;
-    color: #0a95c6 !important; 
+    color: #0ac6a7 !important; 
   }
   
   .nav-tabs .nav-link:hover {
-    color: rgba(0, 55, 255, 0.505) !important;
+    color: rgba(238, 80, 17, 0.505) !important;
   }
   
   .card img {

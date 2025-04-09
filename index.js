@@ -151,8 +151,8 @@ function createBookCard(book) {
           <p class="card-text">Author: ${book.author}</p>
           <p class="card-text"><small>Genre: ${book.genre}</small></p>
           <p class="card-text"><small>Status: ${book.status}</small></p>
-          <button class="btn btn-sm btn-danger" onclick="deleteBook('${book.id}')">Delete</button>
-          <button class="btn btn-sm btn-info" onclick="openEditBookModal('${book.id}')">Edit</button>
+          <button class="btn btn-sm btn-danger" onclick="deleteBook('${book.id}')">Delete</button><br><br>
+          <button class="btn btn-sm btn-info" onclick="openEditBookModal('${book.id}')">Edit</button><br><br>
           <button class="btn btn-sm ${book.favorite ? "btn-warning" : "btn-outline-warning"}" onclick="toggleFavorite('${book.id}')">
             ${book.favorite ? "Unfavorite" : "Favorite"}
           </button>

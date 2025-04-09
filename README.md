@@ -1,7 +1,5 @@
-# hauler-and-shakirah
-## Book Management JS Project (WITU cohort4)
+# HAULAH MUSA AND SHAKIRAH HAWEZI BOOK PROJECT.
 
-- A book management CRUD app with additional functionality like search, marking book as favorite and filtering book views.
-- Image Demo
+In this project, we have created a Book Management System App that will enable users to manage their books with ease. It supports all the core CRUD operations—Create, Read, Update, and Delete. It also goes beyond and it includes features for searching, filtering, and marking favorite books thus offering a fully customizable library experience.
 
-![Image](/app.png)
+![Image](/bb3.jpg)
